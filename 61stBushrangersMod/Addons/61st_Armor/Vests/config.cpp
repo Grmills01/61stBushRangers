@@ -171,9 +171,7 @@ class XtdGearModels
 				changedelay=0;
 				label="Rank";
 				values[]=
-				{"RTO","MED","PLAIN"};
-				class RTO
-				{label="$STR_BR_RSV_RTO";};
+				{"MED","PLAIN"};
 				class MED
 				{label="$STR_BR_RSV_MED"}
 				class PLAIN
@@ -366,12 +364,6 @@ class XtdGearInfos
 		{
 			Model="BR_V_1I3";
 			Custom="PLAIN";
-		};
-
-		class BR_V_RSV_RTO
-		{
-			Model="BR_V_RSV";
-			Custom="RTO";
 		};
 
 		class BR_V_RSV_MED

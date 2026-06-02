@@ -110,10 +110,6 @@
                 <Original>Plain</Original>
                 <English>Plain</English>
             </Key>
-            <Key ID="STR_BR_RSV_RTO">
-                <Original>RTO</Original>
-                <English>RTO</English>
-            </Key>
             <Key ID="STR_BR_RSV_MED">
                 <Original>Medic</Original>
                 <English>Medic</English>
