@@ -4,7 +4,7 @@ import fileinput
 OPTIONS
 '''
 
-fileURL = "./Arma 3 Preset 61st Mod List.html"
+fileURL = "./CnC.html"
 
 def StealIDs():
 	outputString = "serverMod=\""

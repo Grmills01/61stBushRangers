@@ -13,7 +13,9 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"61st_Core",
-			"OPTRE_UNSC_Units_Army"
+			"OPTRE_UNSC_Units_Army",
+			"A3_Weapons_F",
+			"MA_Armor"
 		};
 	};
 };

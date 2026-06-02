@@ -9,7 +9,9 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"61st_Armor"
+			"61st_Armor",
+			"A3_Weapons_F",
+			"MA_Armor"
 		};
         addonRootClass="61st_Armor";
 	};
@@ -390,6 +392,4 @@ class CfgWeapons {
 #include "1I1.hpp"
 #include "1I2.hpp"
 #include "1I3.hpp"
-#include "RSV.hpp"
-#include "SQD.hpp"
 };

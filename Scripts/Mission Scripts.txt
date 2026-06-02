@@ -1,0 +1,17 @@
+ARSENAL:
+[this, true] call ace_arsenal_fnc_initBox;
+
+[this, this] call ace_common_fnc_claim; 
+private _action = ["myArsenal", localize "STR_A3_Arsenal", "", { 
+    params ["_target", "_player"]; 
+    [_target, _player] call ace_arsenal_fnc_openBox; 
+}, { 
+    true 
+}] call ace_interact_menu_fnc_createAction; 
+ 
+[this, 0, ["ACE_MainActions"], _action] call ace_interact_menu_fnc_addActionToObject;
+
+
+TELEPORTER:
+this addAction ["Teleport to Planes", {player setPosATL (getPosATL vehicleAircrafttele)}];
+this addAction ["Teleport to Kavala", {player setPosATL (getPosATL kavalatele)}];
