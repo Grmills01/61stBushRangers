@@ -1,6 +1,6 @@
 version=54;
-name="UNSC Sothern Crossfire";
-author="regamills";
+name="UNSC Southern Crossfire";
+author="Grmills";
 category="OPTRE_EditorSubcategory_Frigate_UNSC";
 requiredAddons[]=
 {
@@ -8,20 +8,22 @@ requiredAddons[]=
 	"ace_rearm",
 	"ace_cargo",
 	"ace_refuel",
-	"CUP_Misc3_Config",
 	"OPTRE_UNSC_Structure_CityObjects",
 	"OPTRE_BW_DoorConsole",
 	"A3_Structures_F_Mil_Helipads",
 	"OPTRE_Corvette",
 	"OPTRE_Vehicles_HEV",
 	"OPTRE_ACE_Compat",
-	"OPTRE_Vehicles_Cryopod",
-	"A3_Modules_F_Multiplayer",
+	"1st_MEU_patch_vehicles_air",
+	"1st_MEU_patch_functions_hev_jellybean",
 	"OPTRE_UNSC_Structure_HoloObjects",
 	"OPTRE_UNSC_Structure_Military",
 	"OPTRE_BW_WeaponRack",
 	"OPTRE_UNSC_Units_Army",
 	"A3_Modules_F_Curator_Curator",
+	"A3_Modules_F_Multiplayer",
+	"OPTRE_Vehicles_Cryopod",
+	"OPTRE_Corvette_Interior",
 	"A3_Structures_F_Enoch_Infrastructure_Railways",
 	"A3_Structures_F_Exp_Walls_Concrete",
 	"ace_fastroping",
@@ -33,6 +35,5 @@ requiredAddons[]=
 	"OPTRE_Corvette_Weapons_pointdefense",
 	"Lance",
 	"A3_Structures_F_Exp_Industrial_Port",
-	"OPTRE_Corvette_Interior",
 	"A3_Characters_F_Common"
 };
