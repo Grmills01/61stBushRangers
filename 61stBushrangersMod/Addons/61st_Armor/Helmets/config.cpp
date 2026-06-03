@@ -35,18 +35,12 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"CO","XO","RTO","SGT","MED","PLAIN"};
-				class CO
-				{label="$STR_BR_BAT_CO"};
-				class XO
-				{label="$STR_BR_BAT_XO"};
-				class RTO
-				{label="$STR_BR_BAT_RTO"};
-				class SGT
-				{label="$STR_BR_BAT_SGT"};
-				class MED
-				{label="$STR_BR_BAT_MED"};
-				class PLAIN
-				{label="$STR_BR_BAT_PLAIN"};
+				class CO { label="$STR_BR_BAT_CO"; };
+                class XO { label="$STR_BR_BAT_XO"; };
+                class RTO { label="$STR_BR_BAT_RTO"; };
+                class SGT { label="$STR_BR_BAT_SGT"; };
+                class MED { label="$STR_BR_BAT_MED"; };
+                class PLAIN { label="$STR_BR_BAT_PLAIN"; };
 			};
 		};
 		class BR_H_1ST
@@ -64,18 +58,12 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"CO","XO","RTO","SGT","MED","PLAIN"};
-				class CO
-				{label="$STR_BR_1ST_CO"};
-				class XO
-				{label="$STR_BR_1ST_XO"};
-				class RTO
-				{label="$STR_BR_1ST_RTO"};
-				class SGT
-				{label="$STR_BR_1ST_SGT"};
-				class MED
-				{label="$STR_BR_1ST_MED"};
-				class PLAIN
-				{label="$STR_BR_1ST_PLAIN"};
+				class CO { label="$STR_BR_1ST_CO"; };
+				class XO { label="$STR_BR_1ST_XO"; };
+				class RTO { label="$STR_BR_1ST_RTO"; };
+				class SGT { label="$STR_BR_1ST_SGT"; };
+				class MED { label="$STR_BR_1ST_MED"; };
+				class PLAIN { label="$STR_BR_1ST_PLAIN"; };
 			};
 		};
 		class BR_H_1I1
@@ -93,16 +81,11 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"LDR","SIC","RTO","MED","PLAIN"};
-				class LDR
-				{label="$STR_BR_1I1_LDR"};
-				class SIC
-				{label="$STR_BR_1I1_2IC"};
-				class RTO
-				{label="$STR_BR_1I1_RTO"};
-				class MED
-				{label="$STR_BR_1I1_MED"};
-				class PLAIN
-				{label="$STR_BR_1I1_PLAIN"};
+				class LDR { label="$STR_BR_1I1_LDR"; };
+				class SIC { label="$STR_BR_1I1_2IC"; };
+				class RTO { label="$STR_BR_1I1_RTO"; };
+				class MED { label="$STR_BR_1I1_MED"; };
+				class PLAIN { label="$STR_BR_1I1_PLAIN"; };
 			};
 		};
 		class BR_H_1I2
@@ -120,16 +103,11 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"LDR","SIC","RTO","MED","PLAIN"};
-				class LDR
-				{label="$STR_BR_1I2_LDR"};
-				class SIC
-				{label="$STR_BR_1I2_2IC"};
-				class RTO
-				{label="$STR_BR_1I2_RTO"};
-				class MED
-				{label="$STR_BR_1I2_MED"};
-				class PLAIN
-				{label="$STR_BR_1I2_PLAIN"};
+				class LDR { label="$STR_BR_1I2_LDR"; };
+				class SIC { label="$STR_BR_1I2_2IC"; };
+				class RTO { label="$STR_BR_1I2_RTO"; };
+				class MED { label="$STR_BR_1I2_MED"; };
+				class PLAIN { label="$STR_BR_1I2_PLAIN"; };
 			};
 		};
 		class BR_H_1I3
@@ -147,16 +125,11 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"LDR","SIC","RTO","MED","PLAIN"};
-				class LDR
-				{label="$STR_BR_1I3_LDR"};
-				class SIC
-				{label="$STR_BR_1I3_2IC"};
-				class RTO
-				{label="$STR_BR_1I3_RTO"};
-				class MED
-				{label="$STR_BR_1I3_MED"};
-				class PLAIN
-				{label="$STR_BR_1I3_PLAIN"};
+				class LDR { label="$STR_BR_1I3_LDR"; };
+				class SIC { label="$STR_BR_1I3_2IC"; };
+				class RTO { label="$STR_BR_1I3_RTO"; };
+				class MED { label="$STR_BR_1I3_MED"; };
+				class PLAIN { label="$STR_BR_1I3_PLAIN"; };
 			};
 		};
 		class BR_H_RSV
@@ -174,12 +147,9 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"RTO","MED","PLAIN"};
-				class RTO
-				{label="$STR_BR_RSV_RTO";};
-				class MED
-				{label="$STR_BR_RSV_MED"}
-				class PLAIN
-				{label="$STR_BR_RSV_PLAIN"}
+				class RTO { label="$STR_BR_RSV_RTO"; };
+				class MED { label="$STR_BR_RSV_MED"; };
+				class PLAIN { label="$STR_BR_RSV_PLAIN"; };
 			};
 		};
 		class BR_H_SQD
@@ -197,14 +167,10 @@ class XtdGearModels
 				label="Colour";
 				values[]=
 				{"CO","XO","WOFF","PLAIN"};
-				class CO
-				{label="$STR_BR_SQD_CO";};
-				class XO
-				{label="$STR_BR_SQD_XO"}
-				class WOFF
-				{label="$STR_BR_SQD_WOFF"}
-				class PLAIN
-				{label="$STR_BR_SQD_PLAIN"}
+				class CO { label="$STR_BR_SQD_CO"; };
+				class XO { label="$STR_BR_SQD_XO"; };
+				class WOFF { label="$STR_BR_SQD_WOFF"; };
+				class PLAIN { label="$STR_BR_SQD_PLAIN"; };
 			};
 		};
 	};

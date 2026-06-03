@@ -56,19 +56,19 @@
             {
                 class Face
                 {
-                    armor=180;
+                    armor=60;
                     hitpointName="HitFace";
                     passThrough=0.08;
                 };
                 class Head
                 {
-                    armor=180;
+                    armor=60;
                     hitPointName="HitHead";
                     passThrough=0.08;
                 };
                 class Neck
                 {
-                    armor=180;
+                    armor=60;
                     hitpointName="HitNeck";
                     passThrough=0.08;
                 };
@@ -93,8 +93,8 @@
         };
         hiddenSelectionsTextures[]=
         {
-            "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa", // Added .paa
-            "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa" // Added .paa
+            "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa",
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         hiddenSelectionsMaterials[]=
         {
@@ -106,7 +106,7 @@
         class ItemInfo: HeadgearItem
         {
             mass=30;
-            uniformModel="OPTRE_UNSC_Units\Army\odst_helmet_dp";
+            uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm.p3d";
             picture="";
             
             hiddenSelections[]=

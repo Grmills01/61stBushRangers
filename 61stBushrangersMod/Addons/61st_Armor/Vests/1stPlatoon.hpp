@@ -136,14 +136,10 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
             containerClass = "Supply350";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
+            mass = 10;
 
             hiddenSelections[] =
             {
@@ -238,64 +234,6 @@
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo27
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo28
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo29
-            };
-
-            class HitpointsProtectionInfo
-            {
-                class Neck
-                {
-                    hitpointName = "HitNeck";
-                    armor = 30;
-                    passThrough = 0.5;
-                };
-                class Legs
-                {
-                    hitpointName = "HitLegs";
-                    armor = 40;
-                    passThrough = 0.5;
-                };
-                class Arms
-                {
-                    hitpointName = "HitArms";
-                    armor = 35;
-                    passThrough = 0.1;
-                };
-                class Hands
-                {
-                    hitpointName = "HitHands";
-                    armor = 40;
-                    passThrough = 0.1;
-                };
-                class Chest
-                {
-                    hitpointName = "HitChest";
-                    armor = 50;
-                    passThrough = 0.1;
-                };
-                class Diaphragm
-                {
-                    hitpointName = "HitDiaphragm";
-                    armor = 50;
-                    passThrough = 0.1;
-                };
-                class Abdomen
-                {
-                    hitpointName = "HitAbdomen";
-                    armor = 40;
-                    passThrough = 0.1;
-                };
-                class Pelvis
-                {
-                    hitpointName = "HitPelvis";
-                    armor = 40;
-                    passThrough = 0.1;
-                };
-                class Body
-                {
-                    hitpointName = "HitBody";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
             };
         };
     }
@@ -437,15 +375,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -680,15 +611,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -923,15 +847,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -1166,15 +1083,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -1409,15 +1319,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",

@@ -70,10 +70,10 @@ class CfgVehicles
     {
         scope = 2;
         displayName = "I <3 Mills";
-        uniformClass = "IHEARTMILLS";
+        uniformClass = "BR_Love";
         model = "\A3\Characters_F\Civil\c_poloshirtpants.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"61st_Armor\Data\Vests\IHEARTMILLS.paa"};
+        hiddenSelectionsTextures[] = {"\61st_Armor\Data\Vests\IHEARTMILLS.paa"};
     };
 
     class 61st_Base_Uniform: MA_Marine_ODST_BDU_HJ
@@ -85,7 +85,7 @@ class CfgVehicles
         side=1;
         identityTypes[]={};
         uniformclass="BR_M56S_BDU";
-        model="MA_Armor\data\Uniforms\Marine\Marine_Uniform.p3d";
+        model="\MA_Armor\data\Uniforms\Marine\Marine_Uniform.p3d";
 
         hiddenSelections[]=
 		{
@@ -113,22 +113,16 @@ class CfgVehicles
 
         hiddenSelectionsTextures[]=
         {
-            "61st_Armor\Data\Uniforms\MA_ODST_UpperBDU_61st_CO.paa",
-            "61st_Armor\Data\Uniforms\MA_ODST_LowerBDU_61st_CO.paa",
-	        "MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_Collar_CO.paa",
-			"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
-			"MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
-            "61st_Armor\Data\Uniforms\MA_ODST_UpperArmor_61st_CO.paa",
-            "61st_Armor\Data\Uniforms\MA_ODST_LowerArmor_61st_CO.paa",
-            "MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 7  - Camo8
-            "MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 8  - Camo9
-            "MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 9  - Camo10
+            "\61st_Armor\Data\Uniforms\MA_ODST_UpperBDU_61st_CO.paa",
+            "\61st_Armor\Data\Uniforms\MA_ODST_LowerBDU_61st_CO.paa",
+	        "\MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_Collar_CO.paa",
+			"\MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperSoftpadding_CO.paa",
+			"\MA_Armor\data\Uniforms\Marine\data\Color_Variants\TrooperArmorStraps_CO.paa",
+            "\61st_Armor\Data\Uniforms\MA_ODST_UpperArmor_61st_CO.paa",
+            "\61st_Armor\Data\Uniforms\MA_ODST_LowerArmor_61st_CO.paa",
+            "\MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 7  - Camo8
+            "\MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 8  - Camo9
+            "\MA_Armor\data\Uniforms\Marine\data\Color_Variants\MA_ODST_TrooperShoulders_CO.paa", // 9  - Camo10
         };
-        weapons[]={"","Throw","Put"};
-        respawnWeapons[]={"","Throw","Put"};
-        magazines[]={};
-        respawnMagazines[]={};
-        items[]={};
-        respawnItems[]={};
     };
 };

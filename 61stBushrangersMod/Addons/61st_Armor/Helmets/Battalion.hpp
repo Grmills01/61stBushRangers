@@ -112,7 +112,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_CO.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {
@@ -130,7 +130,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_XO.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {
@@ -148,7 +148,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_RTO.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {
@@ -166,7 +166,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_SGT.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {
@@ -184,7 +184,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_MED.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {
@@ -202,7 +202,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Battalion\BR_H_BAT_PLAIN.paa",
-            "61st_Armor\data\Helmets\Battalion\BR_H_BAT_V_CO.paa"
+            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
         };
         class ItemInfo: ItemInfo
         {

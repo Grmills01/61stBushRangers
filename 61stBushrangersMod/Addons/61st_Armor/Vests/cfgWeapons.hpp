@@ -246,60 +246,15 @@
 
             class HitpointsProtectionInfo
             {
-                class Neck
-                {
-                    hitpointName = "HitNeck";
-                    armor = 20;
-                    passThrough = 0.5;
-                };
-                class Legs
-                {
-                    hitpointName = "HitLegs";
-                    armor = 20;
-                    passThrough = 0.5;
-                };
-                class Arms
-                {
-                    hitpointName = "HitArms";
-                    armor = 25;
-                    passThrough = 0.1;
-                };
-                class Hands
-                {
-                    hitpointName = "HitHands";
-                    armor = 20;
-                    passThrough = 0.1;
-                };
-                class Chest
-                {
-                    hitpointName = "HitChest";
-                    armor = 35;
-                    passThrough = 0.1;
-                };
-                class Diaphragm
-                {
-                    hitpointName = "HitDiaphragm";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Abdomen
-                {
-                    hitpointName = "HitAbdomen";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Pelvis
-                {
-                    hitpointName = "HitPelvis";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Body
-                {
-                    hitpointName = "HitBody";
-                    armor = 0;
-                    passThrough = 0.1;
-                };
+                class Arms { hitpointName = "HitArms"; armor = 40; passThrough = 0.1; };
+                class Hands { hitpointName = "HitHands"; armor = 30; passThrough = 0.1; };
+                class Legs { hitpointName = "HitLegs"; armor = 40; passThrough = 0.3; };
+                class Neck { hitpointName = "HitNeck"; armor = 40; passThrough = 0.3; };
+                class Chest { hitpointName = "HitChest"; armor = 60; passThrough = 0.1; };
+                class Diaphragm { hitpointName = "HitDiaphragm"; armor = 55; passThrough = 0.1; };
+                class Abdomen { hitpointName = "HitAbdomen"; armor = 55; passThrough = 0.1; };
+                class Pelvis { hitpointName = "HitPelvis"; armor = 55; passThrough = 0.1; };
+                class Body { hitpointName = "HitBody"; passThrough = 0.1; };
             };
         };
     };
@@ -547,60 +502,15 @@
 
             class HitpointsProtectionInfo
             {
-                class Neck
-                {
-                    hitpointName = "HitNeck";
-                    armor = 20;
-                    passThrough = 0.5;
-                };
-                class Legs
-                {
-                    hitpointName = "HitLegs";
-                    armor = 20;
-                    passThrough = 0.5;
-                };
-                class Arms
-                {
-                    hitpointName = "HitArms";
-                    armor = 25;
-                    passThrough = 0.1;
-                };
-                class Hands
-                {
-                    hitpointName = "HitHands";
-                    armor = 20;
-                    passThrough = 0.1;
-                };
-                class Chest
-                {
-                    hitpointName = "HitChest";
-                    armor = 35;
-                    passThrough = 0.1;
-                };
-                class Diaphragm
-                {
-                    hitpointName = "HitDiaphragm";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Abdomen
-                {
-                    hitpointName = "HitAbdomen";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Pelvis
-                {
-                    hitpointName = "HitPelvis";
-                    armor = 30;
-                    passThrough = 0.1;
-                };
-                class Body
-                {
-                    hitpointName = "HitBody";
-                    armor = 0;
-                    passThrough = 0.1;
-                };
+                class Arms { hitpointName = "HitArms"; armor = 50; passThrough = 0.1; };
+                class Hands { hitpointName = "HitHands"; armor = 30; passThrough = 0.1; };
+                class Legs { hitpointName = "HitLegs"; armor = 50; passThrough = 0.25; };
+                class Neck { hitpointName = "HitNeck"; armor = 50; passThrough = 0.25; };
+                class Chest { hitpointName = "HitChest"; armor = 60; passThrough = 0.1; };
+                class Diaphragm { hitpointName = "HitDiaphragm"; armor = 55; passThrough = 0.1; };
+                class Abdomen { hitpointName = "HitAbdomen"; armor = 55; passThrough = 0.1; };
+                class Pelvis { hitpointName = "HitPelvis"; armor = 55; passThrough = 0.1; };
+                class Body { hitpointName = "HitBody"; passThrough = 0.1; };
             };
         };
     };

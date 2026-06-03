@@ -136,15 +136,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -379,15 +372,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -622,15 +608,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -865,15 +844,8 @@
             "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
         };
 
-        class ItemInfo: VestItem
+        class ItemInfo: ItemInfo
         {
-            vestType = "Rebreather";
-            uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
-            mass = 20;
-            passThrough = 0.1;
-            modelSides[] = {6};
-
             hiddenSelections[] =
             {
                 "Camo1",
@@ -1108,15 +1080,8 @@ class BR_V_1I2_PLAIN: BR_V_RSV_PLAIN
         "61st_Armor\Data\Vests\Materials\MA_TrooperExtras_B.rvmat",
     };
 
-    class ItemInfo: VestItem
+    class ItemInfo: ItemInfo
     {
-        vestType = "Rebreather";
-        uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-        containerClass = "Supply250";
-        mass = 20;
-        passThrough = 0.1;
-        modelSides[] = {6};
-
         hiddenSelections[] =
         {
             "Camo1",

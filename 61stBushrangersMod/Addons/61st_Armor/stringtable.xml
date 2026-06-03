@@ -15,12 +15,12 @@
                 <English>RTO</English>
             </Key>
             <Key ID="STR_BR_BAT_SGT">
-                <Original>SGT</Original>
-                <English>SGT</English>
+                <Original>Donkey</Original>
+                <English>Donkey</English>
             </Key>
             <Key ID="STR_BR_BAT_MED">
-                <Original>MED</Original>
-                <English>MED</English>
+                <Original>Wolf</Original>
+                <English>Wolf</English>
             </Key>
             <Key ID="STR_BR_BAT_PLAIN">
                 <Original>Plain</Original>
@@ -31,8 +31,8 @@
                 <English>Mechy</English>
             </Key>
             <Key ID="STR_BR_1ST_XO">
-                <Original>XO</Original>
-                <English>XO</English>
+                <Original>Adam</Original>
+                <English>Adam</English>
             </Key>
             <Key ID="STR_BR_1ST_RTO">
                 <Original>RTO</Original>
@@ -43,8 +43,8 @@
                 <English>SGT</English>
             </Key>
             <Key ID="STR_BR_1ST_MED">
-                <Original>MED</Original>
-                <English>MED</English>
+                <Original>Ali</Original>
+                <English>Ali</English>
             </Key>
             <Key ID="STR_BR_1ST_PLAIN">
                 <Original>Plain</Original>
@@ -119,8 +119,8 @@
                 <English>Plain</English>
             </Key>
             <Key ID="STR_BR_SQD_CO">
-                <Original>CO</Original>
-                <English>CO</English>
+                <Original>Wolfgrey</Original>
+                <English>Wolfgrey</English>
             </Key>
             <Key ID="STR_BR_SQD_XO">
                 <Original>XO</Original>

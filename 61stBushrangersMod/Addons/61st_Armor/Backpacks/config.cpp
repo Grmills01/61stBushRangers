@@ -40,16 +40,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -88,16 +83,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -107,17 +97,17 @@ class XtdGearModels
 				label="Rank";
 				values[]= {"CO","XO","RTO","SGT","MED","PLAIN"};
 				class CO
-				{label="$STR_BR_1ST_CO"};
+				{ label="$STR_BR_1ST_CO"; };
 				class XO
-				{label="$STR_BR_1ST_XO"};
+				{ label="$STR_BR_1ST_XO"; };
 				class RTO
-				{label="$STR_BR_1ST_RTO"};
+				{ label="$STR_BR_1ST_RTO"; };
 				class SGT
-				{label="$STR_BR_1ST_SGT"};
+				{ label="$STR_BR_1ST_SGT"; };
 				class MED
-				{label="$STR_BR_1ST_MED"};
+				{ label="$STR_BR_1ST_MED"; };
 				class PLAIN
-				{label="$STR_BR_1ST_PLAIN"};
+				{ label="$STR_BR_1ST_PLAIN"; };
 			};
 		};
 		class BR_B_1I1
@@ -142,16 +132,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -160,15 +145,15 @@ class XtdGearModels
 				changedelay=0;
 				values[]= {"LDR", "2IC", "RTO", "MED", "PLAIN"};
 				class LDR
-				{label="$STR_BR_1I1_LDR"};
+				{ label="$STR_BR_1I1_LDR"; };
 				class 2IC
-				{label="$STR_BR_1I1_2IC"};
+				{ label="$STR_BR_1I1_2IC"; };
 				class RTO
-				{label="$STR_BR_1I1_RTO"};
+				{ label="$STR_BR_1I1_RTO"; };
 				class MED
-				{label="$STR_BR_1I1_MED"};
+				{ label="$STR_BR_1I1_MED"; };
 				class PLAIN
-				{label="$STR_BR_1I1_PLAIN"};
+				{ label="$STR_BR_1I1_PLAIN"; };
 			};
 		};
 		class BR_B_1I2
@@ -193,16 +178,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -211,15 +191,15 @@ class XtdGearModels
 				changedelay=0;
 				values[]= {"LDR","2IC","RTO","MED","PLAIN"};
 				class LDR
-				{label="$STR_BR_1I2_LDR"};
+				{ label="$STR_BR_1I2_LDR"; };
 				class 2IC
-				{label="$STR_BR_1I2_2IC"};
+				{ label="$STR_BR_1I2_2IC"; };
 				class RTO
-				{label="$STR_BR_1I2_RTO"};
+				{ label="$STR_BR_1I2_RTO"; };
 				class MED
-				{label="$STR_BR_1I2_MED"};
+				{ label="$STR_BR_1I2_MED"; };
 				class PLAIN
-				{label="$STR_BR_1I2_PLAIN"};
+				{ label="$STR_BR_1I2_PLAIN"; };
 			};
 		};
 		class BR_B_1I3
@@ -244,16 +224,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -262,15 +237,15 @@ class XtdGearModels
 				changedelay=0;
 				values[]= {"LDR", "2IC", "RTO", "MED", "PLAIN"};
 				class LDR
-				{label="$STR_BR_1I3_LDR"};
+				{ label="$STR_BR_1I3_LDR"; };
 				class 2IC
-				{label="$STR_BR_1I3_2IC"};
+				{ label="$STR_BR_1I3_2IC"; };
 				class RTO
-				{label="$STR_BR_1I3_RTO"};
+				{ label="$STR_BR_1I3_RTO"; };
 				class MED
-				{label="$STR_BR_1I3_MED"};
+				{ label="$STR_BR_1I3_MED"; };
 				class PLAIN
-				{label="$STR_BR_1I3_PLAIN"};
+				{ label="$STR_BR_1I3_PLAIN"; };
 			};
 		};
 		class BR_B_RSV
@@ -295,16 +270,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -313,11 +283,11 @@ class XtdGearModels
 				changedelay=0;
 				values[]= {"RTO", "MED", "PLAIN"};
 				class RTO
-				{label="$STR_BR_RSV_RTO";};
+				{ label="$STR_BR_RSV_RTO"; };
 				class MED
-				{label="$STR_BR_RSV_MED"};
+				{ label="$STR_BR_RSV_MED"; };
 				class PLAIN
-				{label="$STR_BR_RSV_PLAIN"};
+				{ label="$STR_BR_RSV_PLAIN"; };
 			};
 		};
 		class BR_B_SQD
@@ -342,16 +312,11 @@ class XtdGearModels
 					"ANPRC521",
 					"ANPRC515"
 				};
-				class Basic
-				{label="Basic"};
-				class Medic
-				{label="Medic"};
-				class Heavy
-				{label="Heavy"};
-				class ANPRC521
-				{label="AN/PRC-521"};
-				class ANPRC515
-				{label="AN/PRC-515"};
+				class Basic { label="Basic"; };
+                class Medic { label="Medic"; };
+                class Heavy { label="Heavy"; };
+                class ANPRC521 { label="AN/PRC-521"; };
+                class ANPRC515 { label="AN/PRC-515"; };
 			};
 			class Rank
 			{
@@ -360,13 +325,13 @@ class XtdGearModels
 				changedelay=0;
 				values[]={"CO", "XO", "WOFF", "PLAIN"};
 				class CO
-				{label="$STR_BR_SQD_CO";};
+				{ label="$STR_BR_SQD_CO"; };
 				class XO
-				{label="$STR_BR_SQD_XO"};
+				{ label="$STR_BR_SQD_XO"; };
 				class WOFF
-				{label="$STR_BR_SQD_WOFF"};
+				{ label="$STR_BR_SQD_WOFF"; };
 				class PLAIN
-				{label="$STR_BR_SQD_PLAIN"};
+				{ label="$STR_BR_SQD_PLAIN"; };
 			};
 		};
 
