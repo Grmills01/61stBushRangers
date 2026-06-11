@@ -144,9 +144,8 @@
         {
             vestType = "Rebreather";
             uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
+            containerClass = "Supply180";
             mass = 20;
-            passThrough = 0.1;
             modelSides[] = {6};
 
             hiddenSelections[] =
@@ -245,17 +244,50 @@
             };
 
             class HitpointsProtectionInfo
-            {
-                class Arms { hitpointName = "HitArms"; armor = 40; passThrough = 0.1; };
-                class Hands { hitpointName = "HitHands"; armor = 30; passThrough = 0.1; };
-                class Legs { hitpointName = "HitLegs"; armor = 40; passThrough = 0.3; };
-                class Neck { hitpointName = "HitNeck"; armor = 40; passThrough = 0.3; };
-                class Chest { hitpointName = "HitChest"; armor = 60; passThrough = 0.1; };
-                class Diaphragm { hitpointName = "HitDiaphragm"; armor = 55; passThrough = 0.1; };
-                class Abdomen { hitpointName = "HitAbdomen"; armor = 55; passThrough = 0.1; };
-                class Pelvis { hitpointName = "HitPelvis"; armor = 55; passThrough = 0.1; };
-                class Body { hitpointName = "HitBody"; passThrough = 0.1; };
-            };
+			{
+				class Neck
+				{
+					hitpointName="HitNeck";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Arms
+				{
+					hitpointName="HitArms";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Chest
+				{
+					hitpointName="HitChest";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Diaphragm
+				{
+					hitpointName="HitDiaphragm";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Abdomen
+				{
+					hitpointName="HitAbdomen";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Body
+				{
+					hitpointName="HitBody";
+					passThrough=0.08;
+					armor=80;
+				};
+				class Legs
+				{
+					hitpointName="HitLegs";
+					armor=80;
+					passThrough=0.08;
+				};
+			};
         };
     };
 	class BR_V_RSV_MED: BR_V_RSV_PLAIN
@@ -400,9 +432,8 @@
         {
             vestType = "Rebreather";
             uniformModel = "MA_Armor\data\Vests\M52_ODST\M52_ODST_Vest.p3d";
-            containerClass = "Supply250";
+            containerClass = "Supply180";
             mass = 20;
-            passThrough = 0.1;
             modelSides[] = {6};
 
             hiddenSelections[] =
@@ -499,18 +530,50 @@
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo28
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo29
             };
-
             class HitpointsProtectionInfo
-            {
-                class Arms { hitpointName = "HitArms"; armor = 50; passThrough = 0.1; };
-                class Hands { hitpointName = "HitHands"; armor = 30; passThrough = 0.1; };
-                class Legs { hitpointName = "HitLegs"; armor = 50; passThrough = 0.25; };
-                class Neck { hitpointName = "HitNeck"; armor = 50; passThrough = 0.25; };
-                class Chest { hitpointName = "HitChest"; armor = 60; passThrough = 0.1; };
-                class Diaphragm { hitpointName = "HitDiaphragm"; armor = 55; passThrough = 0.1; };
-                class Abdomen { hitpointName = "HitAbdomen"; armor = 55; passThrough = 0.1; };
-                class Pelvis { hitpointName = "HitPelvis"; armor = 55; passThrough = 0.1; };
-                class Body { hitpointName = "HitBody"; passThrough = 0.1; };
-            };
+			{
+				class Neck
+				{
+					hitpointName="HitNeck";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Arms
+				{
+					hitpointName="HitArms";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Chest
+				{
+					hitpointName="HitChest";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Diaphragm
+				{
+					hitpointName="HitDiaphragm";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Abdomen
+				{
+					hitpointName="HitAbdomen";
+					armor=80;
+					passThrough=0.08;
+				};
+				class Body
+				{
+					hitpointName="HitBody";
+					passThrough=0.08;
+					armor=80;
+				};
+				class Legs
+				{
+					hitpointName="HitLegs";
+					armor=80;
+					passThrough=0.08;
+				};
+			};
         };
     };

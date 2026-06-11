@@ -17,7 +17,7 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_V_CO.paa"
         };
         hiddenSelectionsMaterials[]=
         {
@@ -44,7 +44,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_V_CO.paa"
             };
             hiddenSelectionsMaterials[]=
             {
@@ -56,19 +56,19 @@
             {
                 class Face
                 {
-                    armor=60;
+                    armor=70;
                     hitpointName="HitFace";
                     passThrough=0.08;
                 };
                 class Head
                 {
-                    armor=60;
+                    armor=70;
                     hitPointName="HitHead";
                     passThrough=0.08;
                 };
                 class Neck
                 {
-                    armor=60;
+                    armor=70;
                     hitpointName="HitNeck";
                     passThrough=0.08;
                 };
@@ -99,7 +99,7 @@
         hiddenSelectionsMaterials[]=
         {
             "61st_Armor\Data\Helmets\Materials\V_CH252D.rvmat",
-            ""
+            "61st_Armor\Data\Helmets\Materials\V_CH252D_V_CLR.rvmat"
         };
         CBRN_protection=1;
         
@@ -123,6 +123,27 @@
             {
                 "61st_Armor\Data\Helmets\Materials\V_CH252D.rvmat",
                 "61st_Armor\Data\Helmets\Materials\V_CH252D_V_CLR.rvmat"
+            };
+            class HitpointsProtectionInfo
+            {
+                class Face
+                {
+                    armor=70;
+                    hitpointName="HitFace";
+                    passThrough=0.08;
+                };
+                class Head
+                {
+                    armor=70;
+                    hitPointName="HitHead";
+                    passThrough=0.08;
+                };
+                class Neck
+                {
+                    armor=70;
+                    hitpointName="HitNeck";
+                    passThrough=0.08;
+                };
             };
         };
         allowedFacewear[]={};

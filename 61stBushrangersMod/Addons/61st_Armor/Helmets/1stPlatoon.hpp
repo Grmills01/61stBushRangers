@@ -4,14 +4,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_CO.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_CO.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
@@ -22,14 +22,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_XO.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_XO.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
@@ -40,14 +40,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_RTO.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_RTO.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
@@ -58,14 +58,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_SGT.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_SGT.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
@@ -76,14 +76,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_MED.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_MED.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
@@ -94,14 +94,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_PLAIN.paa",
-            "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_PLAIN.paa",
-                "61st_Armor\data\Helmets\Materials\V_CH252D_DEF_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_V_CO.paa"
             };
         };
     };
