@@ -11,8 +11,8 @@
         // Root selections for ground/inventory model
         hiddenSelections[]=
         {
-            "Camo1", 
-            "Camo2"
+            "camo1", 
+            "camo2"
         };
         hiddenSelectionsTextures[]=
         {
@@ -37,8 +37,8 @@
             // ItemInfo selections for character model - MUST MATCH THE ROOT
             hiddenSelections[]=
             {
-                "Camo1", 
-                "Camo2"
+                "camo1", 
+                "camo2"
             };
             // Fixed: Copying textures into ItemInfo so they don't break when equipped
             hiddenSelectionsTextures[]=
@@ -88,13 +88,13 @@
         
         hiddenSelections[]=
         {
-            "Camo1", // Fixed: Swapped "Camo" to "Camo1" to match base model definitions
-            "Camo2"
+            "camo1",
+            "camo2"
         };
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa",
-            "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+            "61st_Armor\Data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
         };
         hiddenSelectionsMaterials[]=
         {
@@ -111,13 +111,13 @@
             
             hiddenSelections[]=
             {
-                "Camo1", // Fixed to match parent class
-                "Camo2"
+                "camo1", // Fixed to match parent class
+                "camo2"
             };
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\Data\Helmets\Reserves\BR_H_RSV_PLAIN.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\Data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
             hiddenSelectionsMaterials[]=
             {

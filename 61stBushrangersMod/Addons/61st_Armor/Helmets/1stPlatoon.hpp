@@ -119,7 +119,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_CO.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };
@@ -137,7 +137,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_XO.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };
@@ -155,7 +155,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_RTO.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };
@@ -173,7 +173,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_SGT.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };
@@ -191,7 +191,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_MED.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };
@@ -209,7 +209,7 @@
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-0\BR_H_1ST_PLAIN.paa",
-                "MA_Armor\data\Helmets\Human_ODST\Color_Variants\MA_ODST_Depolarized_Visor_CA.paa"
+                "61st_Armor\data\Helmets\Materials\V_CH252D_CLR_V_CA.paa"
             };
         };
     };

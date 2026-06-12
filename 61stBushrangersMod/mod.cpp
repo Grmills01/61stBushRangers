@@ -9,6 +9,6 @@ logoSmall="\61st_Core\data\UI\61st_Logo64x_CA.paa";
 logo="\61st_Core\data\UI\61st_Logo128x_CA.paa";
 logoOver="\61st_Core\data\UI\61st_Logo128x_CA.paa";
 
-tooltipOwned="[61st] Assests";
+tooltipOwned="[61st] Assets";
 
-overview="Custom Assests for the 61st Bushranger Unit";
+overview="Custom Assets for the 61st Bushranger Unit";
