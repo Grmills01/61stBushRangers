@@ -362,7 +362,7 @@ class XtdGearInfos
 			Model="BR_V_SQD";
 			Custom="WOFF";
 		};
-		class BR_V_SQD_PLAIN_RIFLEMAN
+		class BR_V_SQD_PLAIN
 		{
 			Model="BR_V_SQD";
 			Custom="PLAIN";

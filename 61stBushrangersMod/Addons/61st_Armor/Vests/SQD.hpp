@@ -46,8 +46,8 @@
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
-            //"ODST_Right",
+            "ODST_Left",
+            "ODST_Right",
             "ChestPMLeft",
             "ChestPMRight",
             "ChestPouch",
@@ -72,15 +72,15 @@
 
         hiddenSelectionsTextures[] =
         {
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo1: CQB_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo2: CQB_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo3: Marksman_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo4: Marksman_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo5: ODST_Bracer_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo6: ODST_Bracer_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo7: ODST_Chest
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo8: ODST_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo9: ODST_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo5: ODST_Bracer_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo6: ODST_Bracer_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo7: ODST_Chest
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo8: ODST_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo9: ODST_Right
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10: ChestPMLeft
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11: ChestPMRight
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12: ChestPouch
@@ -202,15 +202,15 @@
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo2
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo3
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo4
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo5
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo6
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO.paa", // Camo7
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo8
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_CO_Shoulders.paa", // Camo9
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo4
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo5
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo6
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO.paa", // Camo7
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo8
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_CO_Shoulders.paa", // Camo9
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12
@@ -282,8 +282,8 @@
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
-            //"ODST_Right",
+            "ODST_Left",
+            "ODST_Right",
             "ChestPMLeft",
             "ChestPMRight",
             "ChestPouch",
@@ -308,15 +308,15 @@
 
         hiddenSelectionsTextures[] =
         {
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo1: CQB_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo2: CQB_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo3: Marksman_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo4: Marksman_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo5: ODST_Bracer_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo6: ODST_Bracer_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo7: ODST_Chest
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo8: ODST_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo9: ODST_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo5: ODST_Bracer_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo6: ODST_Bracer_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo7: ODST_Chest
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo8: ODST_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo9: ODST_Right
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10: ChestPMLeft
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11: ChestPMRight
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12: ChestPouch
@@ -438,15 +438,15 @@
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo2
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo3
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo4
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo5
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo6
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO.paa", // Camo7
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo8
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_XO_Shoulders.paa", // Camo9
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo4
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo5
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo6
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO.paa", // Camo7
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo8
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_XO_Shoulders.paa", // Camo9
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12
@@ -518,8 +518,8 @@
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
-            //"ODST_Right",
+            "ODST_Left",
+            "ODST_Right",
             "ChestPMLeft",
             "ChestPMRight",
             "ChestPouch",
@@ -544,15 +544,15 @@
 
         hiddenSelectionsTextures[] =
         {
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo1: CQB_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo2: CQB_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo3: Marksman_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo4: Marksman_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo5: ODST_Bracer_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo6: ODST_Bracer_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo7: ODST_Chest
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo8: ODST_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo9: ODST_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo5: ODST_Bracer_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo6: ODST_Bracer_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo7: ODST_Chest
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo8: ODST_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo9: ODST_Right
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10: ChestPMLeft
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11: ChestPMRight
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12: ChestPouch
@@ -674,15 +674,15 @@
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo2
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo3
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo4
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo5
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo6
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF.paa", // Camo7
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo8
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_WOFF_Shoulders.paa", // Camo9
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo4
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo5
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo6
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF.paa", // Camo7
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo8
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_WOFF_Shoulders.paa", // Camo9
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12
@@ -754,8 +754,8 @@
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
-            //"ODST_Right",
+            "ODST_Left",
+            "ODST_Right",
             "ChestPMLeft",
             "ChestPMRight",
             "ChestPouch",
@@ -780,15 +780,15 @@
 
         hiddenSelectionsTextures[] =
         {
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo1: CQB_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo2: CQB_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo3: Marksman_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo4: Marksman_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo5: ODST_Bracer_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo6: ODST_Bracer_Right
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo7: ODST_Chest
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo8: ODST_Left
-            "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo9: ODST_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo5: ODST_Bracer_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo6: ODST_Bracer_Right
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo7: ODST_Chest
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo8: ODST_Left
+            "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo9: ODST_Right
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10: ChestPMLeft
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11: ChestPMRight
             "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12: ChestPouch
@@ -910,15 +910,15 @@
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo2
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo3
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo4
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo5
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo6
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN.paa", // Camo7
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo8
-                "61st_Armor\Data\Vests\SQD\BR_V_SQD_PLAIN_Shoulders.paa", // Camo9
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo4
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo5
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo6
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN.paa", // Camo7
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo8
+                "61st_Armor\Data\Vests\Squadron\BR_V_SQD_PLAIN_Shoulders.paa", // Camo9
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo10
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_A_CO.paa", // Camo11
                 "MA_Armor\data\vests\Marine_Pouches\data\MA_TrooperExtras_B_CO.paa", // Camo12

@@ -358,4 +358,5 @@ class CfgWeapons {
 #include "1I1.hpp"
 #include "1I2.hpp"
 #include "1I3.hpp"
+#include "SQD.hpp"
 };
