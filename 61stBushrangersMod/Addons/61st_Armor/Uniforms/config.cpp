@@ -54,7 +54,7 @@ class CfgWeapons
 		{
 			uniformModel="-";
 			uniformClass="61st_Base_Uniform";
-			containerClass="Supply180";
+			containerClass="Supply140";
 			mass=10;
 			uniformType="Neopren";
 			modelSides[]={6};

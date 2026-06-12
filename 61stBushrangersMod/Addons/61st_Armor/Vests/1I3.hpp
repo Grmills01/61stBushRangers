@@ -72,10 +72,10 @@
 
         hiddenSelectionsTextures[] =
         {
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1: CQB_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2: CQB_Right
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3: Marksman_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo5: ODST_Bracer_Left
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo6: ODST_Bracer_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo7: ODST_Chest
@@ -202,10 +202,10 @@
 
             hiddenSelectionsTextures[] =
             {
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR_Shoulders.paa", // Camo4
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo5
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo6
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_LDR.paa", // Camo7
@@ -308,10 +308,10 @@
 
         hiddenSelectionsTextures[] =
         {
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1: CQB_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2: CQB_Right
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3: Marksman_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo5: ODST_Bracer_Left
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo6: ODST_Bracer_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo7: ODST_Chest
@@ -438,10 +438,10 @@
 
             hiddenSelectionsTextures[] =
             {
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC_Shoulders.paa", // Camo4
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo5
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo6
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_2IC.paa", // Camo7
@@ -544,10 +544,10 @@
 
         hiddenSelectionsTextures[] =
         {
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1: CQB_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2: CQB_Right
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3: Marksman_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo5: ODST_Bracer_Left
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo6: ODST_Bracer_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo7: ODST_Chest
@@ -674,10 +674,10 @@
 
             hiddenSelectionsTextures[] =
             {
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO_Shoulders.paa", // Camo4
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo5
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo6
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_RTO.paa", // Camo7
@@ -780,10 +780,10 @@
 
         hiddenSelectionsTextures[] =
         {
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1: CQB_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2: CQB_Right
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3: Marksman_Left
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo5: ODST_Bracer_Left
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo6: ODST_Bracer_Right
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo7: ODST_Chest
@@ -910,10 +910,10 @@
 
             hiddenSelectionsTextures[] =
             {
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3
-                "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo1
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo3
+                "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED_Shoulders.paa", // Camo4
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo5
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo6
                 "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_MED.paa", // Camo7
@@ -1016,10 +1016,10 @@ class BR_V_1I3_PLAIN: BR_V_RSV_PLAIN
 
     hiddenSelectionsTextures[] =
     {
-        "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1: CQB_Left
-        "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2: CQB_Right
-        "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3: Marksman_Left
-        "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4: Marksman_Right
+        "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo1: CQB_Left
+        "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo2: CQB_Right
+        "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo3: Marksman_Left
+        "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo4: Marksman_Right
         "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo5: ODST_Bracer_Left
         "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo6: ODST_Bracer_Right
         "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo7: ODST_Chest
@@ -1146,10 +1146,10 @@ class BR_V_1I3_PLAIN: BR_V_RSV_PLAIN
 
         hiddenSelectionsTextures[] =
         {
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo1
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_CQB_co.paa", // Camo2
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo3
-            "MA_Armor\data\Vests\M52_ODST\Color_Variants\MA_ODST_Marksman_co.paa", // Camo4
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo1
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo2
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo3
+            "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN_Shoulders.paa", // Camo4
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo5
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo6
             "61st_Armor\Data\Vests\FirstPlatoon\1-3\BR_V_1I3_PLAIN.paa", // Camo7

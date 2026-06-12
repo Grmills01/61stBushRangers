@@ -49,7 +49,7 @@
             hiddenSelectionsMaterials[]=
             {
                 "61st_Armor\Data\Helmets\Materials\V_CH252D.rvmat",
-                "61st_Armor\Data\Helmets\Materials\V_CH252D_V.rvmat" // Fixed from empty string
+                "61st_Armor\Data\Helmets\Materials\V_CH252D_V.rvmat"
             };
             
             class HitpointsProtectionInfo
@@ -103,7 +103,7 @@
         };
         CBRN_protection=1;
         
-        class ItemInfo: HeadgearItem
+        class ItemInfo: ItemInfo
         {
             mass=30;
             uniformModel="MA_Armor\data\Helmets\Human_ODST\Reach_ODST_Helm.p3d";
