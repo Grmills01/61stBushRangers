@@ -39,41 +39,41 @@
             "Camo27",
             "Camo28",
             "Camo29",
-            "CQB_Left",
+            //"CQB_Left",
             "CQB_Right",
             "Marksman_Left",
             "Marksman_Right",
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
+            "ODST_Left",
             //"ODST_Right",
             "ChestPMLeft",
             "ChestPMRight",
             "ChestPouch",
             "LShoulderRadio",
-            "RShoulderRadio",
+            //"RShoulderRadio",
             //"StomachPouch",
-            "TorsoPMLeft",
+            //"TorsoPMLeft",
             //"TorsoPMRight",
             "TorsoPouch",
             //"WaistBack",
-            "WaistGLeft",
-            "WaistGRight",
-            //"WaistPLeft",
+            //"WaistGLeft",
+            //"WaistGRight",
+            "WaistPLeft",
             "WaistPRight",
             "WaistRLeft",
             "WaistRRight",
             "WaistSLeft",
             //"WaistSRight",
-            //"LegPouchL",
+            "LegPouchL",
             "LegPouchR",
         };
 
         hiddenSelectionsTextures[] =
         {
-            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo1: CQB_Left
-            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo2: CQB_Right
+            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_ShouldersCQB.paa", // Camo1: CQB_Left
+            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_ShouldersCQB.paa", // Camo2: CQB_Right
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo3: Marksman_Left
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO.paa", // Camo5: ODST_Bracer_Left
@@ -169,41 +169,41 @@
                 "Camo27",
                 "Camo28",
                 "Camo29",
-                "CQB_Left",
+                //"CQB_Left",
                 "CQB_Right",
                 "Marksman_Left",
                 "Marksman_Right",
                 //"ODST_Bracer_Left",
                 //"ODST_Bracer_Right",
                 //"ODST_Chest",
-                //"ODST_Left",
+                "ODST_Left",
                 //"ODST_Right",
                 "ChestPMLeft",
                 "ChestPMRight",
-                "ChestPouch",
+                //"ChestPouch",
                 "LShoulderRadio",
-                "RShoulderRadio",
+                //"RShoulderRadio",
                 //"StomachPouch",
-                "TorsoPMLeft",
+                //"TorsoPMLeft",
                 //"TorsoPMRight",
                 "TorsoPouch",
                 //"WaistBack",
-                "WaistGLeft",
-                "WaistGRight",
-                //"WaistPLeft",
+                //"WaistGLeft",
+                //"WaistGRight",
+                "WaistPLeft",
                 "WaistPRight",
                 "WaistRLeft",
                 "WaistRRight",
                 "WaistSLeft",
                 //"WaistSRight",
-                //"LegPouchL",
+                "LegPouchL",
                 "LegPouchR",
             };
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo2
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_ShouldersCQB.paa", // Camo1
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_ShouldersCQB.paa", // Camo2
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo3
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO_Shoulders.paa", // Camo4
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_CO.paa", // Camo5
@@ -957,15 +957,15 @@
             "Camo29",
             "CQB_Left",
             "CQB_Right",
-            "Marksman_Left",
+            //"Marksman_Left",
             "Marksman_Right",
             //"ODST_Bracer_Left",
             //"ODST_Bracer_Right",
             //"ODST_Chest",
-            //"ODST_Left",
+            "ODST_Left",
             //"ODST_Right",
             "ChestPMLeft",
-            "ChestPMRight",
+            //"ChestPMRight",
             "ChestPouch",
             "LShoulderRadio",
             "RShoulderRadio",
@@ -975,7 +975,7 @@
             "TorsoPouch",
             //"WaistBack",
             "WaistGLeft",
-            "WaistGRight",
+            //"WaistGRight",
             //"WaistPLeft",
             "WaistPRight",
             "WaistRLeft",
@@ -990,8 +990,8 @@
         {
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo1: CQB_Left
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo2: CQB_Right
-            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo3: Marksman_Left
-            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo4: Marksman_Right
+            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_ShouldersMarksman.paa", // Camo3: Marksman_Left
+            "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_ShouldersMarksman.paa", // Camo4: Marksman_Right
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo5: ODST_Bracer_Left
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo6: ODST_Bracer_Right
             "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo7: ODST_Chest
@@ -1087,15 +1087,15 @@
                 "Camo29",
                 "CQB_Left",
                 "CQB_Right",
-                "Marksman_Left",
+                //"Marksman_Left",
                 "Marksman_Right",
                 //"ODST_Bracer_Left",
                 //"ODST_Bracer_Right",
                 //"ODST_Chest",
-                //"ODST_Left",
+                "ODST_Left",
                 //"ODST_Right",
                 "ChestPMLeft",
-                "ChestPMRight",
+                //"ChestPMRight",
                 "ChestPouch",
                 "LShoulderRadio",
                 "RShoulderRadio",
@@ -1105,7 +1105,7 @@
                 "TorsoPouch",
                 //"WaistBack",
                 "WaistGLeft",
-                "WaistGRight",
+                //"WaistGRight",
                 //"WaistPLeft",
                 "WaistPRight",
                 "WaistRLeft",
@@ -1118,10 +1118,10 @@
 
             hiddenSelectionsTextures[] =
             {
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo1
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo2
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo3
-                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo4
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo1: CQB_Left
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_Shoulders.paa", // Camo2: CQB_Right
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_ShouldersMarksman.paa", // Camo3: Marksman_Left
+                "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED_ShouldersMarksman.paa", // Camo4: Marksman_Right
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo5
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo6
                 "61st_Armor\Data\Vests\Battalion\BR_V_BAT_MED.paa", // Camo7

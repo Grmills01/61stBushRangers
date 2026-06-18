@@ -22,14 +22,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_XO.paa",
-            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_XO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_XO.paa",
-                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_XO.paa"
             };
         };
     };
@@ -40,14 +40,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_WOFF.paa",
-            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_WOFF.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_WOFF.paa",
-                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_WOFF.paa"
             };
         };
     };
@@ -58,14 +58,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_PLAIN.paa",
-            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+            "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_PLAIN.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\Data\Helmets\Squadron\BR_H_SQD_PLAIN.paa",
-                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_CO.paa"
+                "61st_Armor\data\Helmets\Squadron\BR_H_SQD_V_PLAIN.paa"
             };
         };
     };

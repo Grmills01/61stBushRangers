@@ -1,6 +1,9 @@
 /*
 execVM "AceSetRadios.sqf";
 */
+
+sleep 20; // Delay to ensure ACE interaction menu is initialized before adding actions
+
 private _radioIcon = "z\tfar\addons\core\ui\ace_interaction_radio_icon.paa";
 
 _action = ["RadioPresets", "Radio Presets", _radioIcon, {}, {true}] call ace_interact_menu_fnc_createAction;
@@ -42,7 +45,7 @@ _action = ["1-2Radios", "Set 1-2 Radio", "", {
         [_radio, 2, _randomFreq] call TFAR_fnc_setChannelFrequency;
         [_radio, 0] call TFAR_fnc_setSwChannel;
         [_radio, 0] call TFAR_fnc_setSwStereo;
-        Hint "1-1 Radio Settings Have Been Set";
+        Hint "1-2 Radio Settings Have Been Set";
 }, {true}] call ace_interact_menu_fnc_createAction;
 [player, 1, ["ACE_SelfActions", "TFAR_Radio", "RadioPresets", "1-2"], _action] call ace_interact_menu_fnc_addActionToObject;
 

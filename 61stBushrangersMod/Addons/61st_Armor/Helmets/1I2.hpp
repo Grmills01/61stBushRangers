@@ -4,14 +4,14 @@
         hiddenSelectionsTextures[]=
         {
             "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_LDR.paa",
-            "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_V_CO.paa"
+            "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_LDR_V_CO.paa"
         };
         class ItemInfo: ItemInfo
         {
             hiddenSelectionsTextures[]=
             {
                 "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_LDR.paa",
-                "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_V_CO.paa"
+                "61st_Armor\data\Helmets\1stPlatoon\1-2\BR_H_1I2_LDR_V_CO.paa"
             };
         };
     };

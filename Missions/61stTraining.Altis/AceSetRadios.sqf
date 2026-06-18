@@ -1,6 +1,9 @@
 /*
 execVM "AceSetRadios.sqf";
 */
+
+sleep 20; // Delay to ensure ACE interaction menu is initialized before adding actions
+
 private _radioIcon = "z\tfar\addons\core\ui\ace_interaction_radio_icon.paa";
 
 _action = ["RadioPresets", "Radio Presets", _radioIcon, {}, {true}] call ace_interact_menu_fnc_createAction;
